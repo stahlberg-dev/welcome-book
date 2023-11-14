@@ -1,0 +1,12 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  min-width: $min-width;
+  background-color: $background-color;
+  font-family: $basic-font;
+  font-weight: 400;
+  line-height: 1.5;
+  color: $text-color;
+}
